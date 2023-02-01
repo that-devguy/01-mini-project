@@ -1,7 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Raleway:wght@700&display=swap');
+
+:root {
+    --main-color: #F7F234;
+    --bg-color: #17120F;
+    --text-color: #fff;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
 header {
+    height: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
+    margin: 0 50px;
+}
+
+h1, h2, h3 {
+    font-family: 'Raleway', sans;
+    color: var(--main-color);
+}
+
+h1 {
+    font-size: 30px;
+    color: var(--main-color);
+}
+
+p, li {
+    font-family: 'Merriweather', sans;
+    color: var(--text-color);
 }
 
 header nav ul {
@@ -10,11 +40,28 @@ header nav ul {
     justify-content: space-between;
 }
 
+header nav ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 0 0 20px;   
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+header nav ul li a:hover {
+    text-decoration: none;
+    color: var(--main-color);
+}
+
 .hero {
     height: 400px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("/assets/images/page-header.jpeg");
+    background-image: url("/assets/images/boba-club.jpg");
     background-size: cover;
     background-position: center;
 }
