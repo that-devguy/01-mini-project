@@ -111,7 +111,44 @@ figure {
     max-width: 50%;
 }
 
+img {
+    border-radius: 10px;
+}
+
 figcaption {
     color: var(--main-color);
     text-align: center;
+}
+
+#contact {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    font-size: 14px;
+}
+
+.form-container {
+    padding: 30px;
+    background-color: #302620;
+    border-radius: 10px;
+    margin: 25px auto;
+    width: 75%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+input {
+    background-color: var(--bg-color);
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+}
+
+input::placeholder {
+    color: var(--text-color);
+    padding-left: 15px;
 }
