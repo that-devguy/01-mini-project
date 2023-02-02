@@ -146,9 +146,21 @@ input {
     border-radius: 10px;
     border: none;
     height: 30px;
+    font-family: 'Merriweather', sans;
 }
 
 input::placeholder {
     color: var(--text-color);
     padding-left: 15px;
+}
+
+.button {
+    background-color: var(--main-color);
+    color: var(--bg-color);
+}
+
+.button:hover {
+    background-color: var(--bg-color);
+    cursor: pointer;
+    color: var(--main-color);
 }
