@@ -2,7 +2,7 @@
 
 :root {
     --main-color: #F7F234;
-    --bg-color: #17120F;
+    --bg-color: #212529;
     --text-color: #fff;
 }
 
@@ -129,7 +129,7 @@ figcaption {
 
 .form-container {
     padding: 30px;
-    background-color: #302620;
+    background-color: #343a40;
     border-radius: 10px;
     margin: 25px auto;
     width: 75%;
