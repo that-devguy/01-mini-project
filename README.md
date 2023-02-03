@@ -1,6 +1,6 @@
 # Week 1 Mini-Project - Landing Page
 
-In this mini-project, I practiced building a Github Repo and learned how to deploy a repo on Github-pages by building a landing page using HTML and CSS. I chose to use ChatGPT to give me an idea for my landing page by having it create me business ideas. After choosing an idea I used AI to create all of my websites information and then I built my pages layout and design around that.
+In this mini-project, I practiced building a Github repo and learned how to deploy a repo on Github-pages by building a landing page using HTML and CSS. I chose to use ChatGPT to give me an idea for my landing page by having it create me business ideas. After choosing an idea I used AI to create all of my websites information and then I built my page layout and design around that.
 
 ## Boba Haven Demo
 
