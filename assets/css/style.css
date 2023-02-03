@@ -109,10 +109,12 @@ main {
 
 figure {
     max-width: 50%;
+    margin: auto 0;
 }
 
 img {
     border-radius: 10px;
+    max-width: 100%;
 }
 
 figcaption {
