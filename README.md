@@ -6,7 +6,7 @@ In this mini-project, I practiced building a Github repo and learned how to depl
 
 The following image shows the web application's appearance and functionality:
 
-![Boba Haven webpage screenshot](./assets/images/boba-haven-demo.PNG)
+![Boba Haven webpage screenshot](./assets/images/boba-haven-demo.JPG)
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
 ## Links
